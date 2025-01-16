@@ -45,4 +45,4 @@ Sonuç analizi aşamasında, görüntü işleme sonrası elde edilen maskeler, b
 
 ### Colab Notebook
 
-[Notebook]([https://colab.research.google.com/drive/1aiLwjmFpj0WsouVB7ZxG9eI7nyoTl3ps?usp=sharing])
+[Notebook](https://colab.research.google.com/drive/1aiLwjmFpj0WsouVB7ZxG9eI7nyoTl3ps?usp=sharing)
