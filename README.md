@@ -42,3 +42,7 @@ Etiketlenen bölgelerden anlamlı alanlar seçilmiş ve görselleştirilmiştir.
 
 ## Sonuç Analizi
 Sonuç analizi aşamasında, görüntü işleme sonrası elde edilen maskeler, bağlantılı bileşen analiziyle oluşturulmuş ve orijinal görüntüyle çarpılarak görselleştirilmiştir.
+
+### Colab Notebook
+
+[Notebook]([https://colab.research.google.com/drive/1aiLwjmFpj0WsouVB7ZxG9eI7nyoTl3ps?usp=sharing])
